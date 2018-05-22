@@ -1,0 +1,116 @@
+\contentsline {section}{\numberline {1}Abstract}{iii}
+\contentsline {section}{\numberline {2}Overview}{iii}
+\contentsline {subsection}{\numberline {2.1}Design Assumptions}{iv}
+\contentsline {subsection}{\numberline {2.2}Expected Results}{iv}
+\contentsline {subsection}{\numberline {2.3}Counter Arguments}{iv}
+\contentsline {subsection}{\numberline {2.4}Limitations}{v}
+\contentsline {section}{\numberline {3}Definition of Terms}{v}
+\contentsline {section}{\numberline {4}Methodologies}{vi}
+\contentsline {section}{\numberline {5}Thought Experiments in Cyberspace}{vi}
+\contentsline {subsection}{\numberline {5.1}Experiment 1 - Defining Identity as Degrees of Value}{vi}
+\contentsline {subsection}{\numberline {5.2}Experiment 2 - Defining an Identity with Purpose}{viii}
+\contentsline {subsection}{\numberline {5.3}Experiment 3 - Margaret The Photon}{viii}
+\contentsline {section}{\numberline {6}Measurements of Identity}{ix}
+\contentsline {section}{\numberline {7}Conclusion from Measurements}{ix}
+\contentsline {section}{\numberline {8}Identity Modelling within a defined mathematical field}{x}
+\contentsline {subsection}{\numberline {8.1}Method Requirements}{x}
+\contentsline {subparagraph}{Steps to create a mathematical identity}{x}
+\contentsline {subparagraph}{Computational Transformations of a Mathematical identity}{x}
+\contentsline {subsection}{\numberline {8.2}Axioms for Consideration}{x}
+\contentsline {subparagraph}{Value as a Unique Identity}{xi}
+\contentsline {subparagraph}{Explicit Differentiability between objects(identities)}{xi}
+\contentsline {subparagraph}{Object Traversal recognized as a transaction}{xi}
+\contentsline {subparagraph}{Assertions are independent of Objects}{xi}
+\contentsline {subparagraph}{Bounded set for Identity Measurement(Field of Expression)}{xi}
+\contentsline {subparagraph}{Identity Kernel}{xi}
+\contentsline {subparagraph}{Computational Expression of Cryptographic Identities}{xi}
+\contentsline {subparagraph}{Concensus Mechanisms as data validators}{xi}
+\contentsline {subparagraph}{Rules of Recognition and Ordinality}{xi}
+\contentsline {section}{\numberline {9}Very Large Numbers and the Mathematics of Identity}{xi}
+\contentsline {paragraph}{Cantor's Proof}{xi}
+\contentsline {paragraph}{Known Limits and boundaries to Very Large numbers}{xii}
+\contentsline {paragraph}{Category Equalizers}{xii}
+\contentsline {paragraph}{Philosophical Dualism}{xii}
+\contentsline {paragraph}{Euclidean Geometry}{xii}
+\contentsline {paragraph}{Minkowski Space}{xii}
+\contentsline {paragraph}{Irrational/Transcendental Numbers}{xii}
+\contentsline {subparagraph}{Pi}{xii}
+\contentsline {subparagraph}{imaginary i}{xii}
+\contentsline {subparagraph}{Euler's Identity}{xii}
+\contentsline {subparagraph}{Non-Computable Numbers}{xii}
+\contentsline {subparagraph}{Roots of Unity or De Mauvre Numbers}{xiii}
+\contentsline {paragraph}{Complex Numbers}{xiii}
+\contentsline {paragraph}{Pi Pi Topology Manifold}{xiii}
+\contentsline {paragraph}{Mathematically Defined Information Types}{xiii}
+\contentsline {paragraph}{Abductive reasoning in light of Deductive Certainty}{xiii}
+\contentsline {paragraph}{Identity Science with Respect to Godel's Incompleteness theorem}{xiii}
+\contentsline {paragraph}{Poincare Conjecture}{xiii}
+\contentsline {subsection}{\numberline {9.1}Applications of Identity Science to Data Structures and computer science.}{xiii}
+\contentsline {subparagraph}{Periodic Table of Information}{xiii}
+\contentsline {subparagraph}{Applied Mathematics}{xiv}
+\contentsline {subparagraph}{Unitary, Uniform, Reference Architecture}{xiv}
+\contentsline {subparagraph}{H-factor Media Types (Hypermedia)}{xiv}
+\contentsline {subparagraph}{T-Factor Media Types (Transmedia)}{xiv}
+\contentsline {subparagraph}{IoT Address Schema}{xiv}
+\contentsline {subparagraph}{People, Content, Machines, Corporations}{xiv}
+\contentsline {subparagraph}{Software-defined Networks}{xiv}
+\contentsline {subparagraph}{Blockchain Mechanisms}{xiv}
+\contentsline {subparagraph}{Informational Sublimation}{xiv}
+\contentsline {subparagraph}{Functional glyphs for refactoring identity}{xiv}
+\contentsline {subparagraph}{Necessary Method of Defined Bounds}{xiv}
+\contentsline {subparagraph}{Shannon's Mathematical Theory of Communication}{xv}
+\contentsline {subparagraph}{Methodical data Reduction with Cryptographic Proofing}{xv}
+\contentsline {subparagraph}{Exploration of Primes}{xv}
+\contentsline {subparagraph}{The Use of Public/PrivateKey Encryption to Express Cryptographic Identity through ring signatures}{xv}
+\contentsline {subparagraph}{Fourier transformations}{xv}
+\contentsline {subparagraph}{Einstein's theory of Relativity with respect to identity data structures}{xv}
+\contentsline {subparagraph}{Spooky action at a distance}{xv}
+\contentsline {subparagraph}{Feynman Diagrams}{xv}
+\contentsline {subparagraph}{Quantum Dense coding with atomic qubits}{xvi}
+\contentsline {subparagraph}{Halting Functions}{xvi}
+\contentsline {section}{\numberline {10}Appendix}{xvi}
+\contentsline {subsection}{\numberline {10.1}Primitive Data Types}{xvi}
+\contentsline {subparagraph}{Hypotheses}{xvi}
+\contentsline {subsection}{\numberline {10.2}Definition of Identity}{xvi}
+\contentsline {paragraph}{Datalogical Definition}{xvi}
+\contentsline {paragraph}{Valid or Invalid}{xvii}
+\contentsline {subparagraph}{Identity validity within an event space}{xvii}
+\contentsline {paragraph}{examples of ordinates}{xvii}
+\contentsline {paragraph}{Common Description}{xvii}
+\contentsline {subsection}{\numberline {10.3}Definition of Event}{xviii}
+\contentsline {paragraph}{Datalogical Definition}{xviii}
+\contentsline {paragraph}{CS Morphology}{xviii}
+\contentsline {subsection}{\numberline {10.4}Definition of Value}{xviii}
+\contentsline {subsection}{\numberline {10.5}Definition of Object}{xviii}
+\contentsline {paragraph}{A Type of Value}{xviii}
+\contentsline {subsection}{\numberline {10.6}Definition of Assertion}{xix}
+\contentsline {paragraph}{A Type of Value}{xix}
+\contentsline {subsection}{\numberline {10.7}Definition of Datum}{xix}
+\contentsline {paragraph}{Datalogical Mass}{xix}
+\contentsline {subparagraph}{Systemic Equivalence}{xix}
+\contentsline {section}{\numberline {11}Basic Data Structures}{xix}
+\contentsline {subsection}{\numberline {11.1}Definition of Terms}{xix}
+\contentsline {subsubsection}{\numberline {11.1.1}Private Key}{xix}
+\contentsline {subparagraph}{Systemic Equivalence}{xx}
+\contentsline {subsubsection}{\numberline {11.1.2}Public Action Key}{xx}
+\contentsline {subparagraph}{Systemic Equivalence}{xx}
+\contentsline {subsubsection}{\numberline {11.1.3}Validator}{xxi}
+\contentsline {subparagraph}{Systemic Equivalence}{xxi}
+\contentsline {subsubsection}{\numberline {11.1.4}Observer}{xxi}
+\contentsline {subparagraph}{Systemic Equivalence}{xxi}
+\contentsline {subsubsection}{\numberline {11.1.5}Location}{xxi}
+\contentsline {paragraph}{}{xxi}
+\contentsline {subparagraph}{Systemic Equivalence}{xxi}
+\contentsline {subsubsection}{\numberline {11.1.6}Action Asset}{xxi}
+\contentsline {subparagraph}{}{xxi}
+\contentsline {subsubsection}{\numberline {11.1.7}Context}{xxi}
+\contentsline {subparagraph}{}{xxii}
+\contentsline {subsection}{\numberline {11.2}Definition of Unconstrained Purpose}{xxii}
+\contentsline {section}{\numberline {12}Basic Rules of Recognition}{xxii}
+\contentsline {subsection}{\numberline {12.1}Global Rules of Recognition}{xxii}
+\contentsline {subsection}{\numberline {12.2}Object Recognition}{xxii}
+\contentsline {subsection}{\numberline {12.3}Assertion Recognition}{xxii}
+\contentsline {paragraph}{Transaction}{xxii}
+\contentsline {subparagraph}{}{xxii}
+\contentsline {section}{\numberline {13}Acknowledgements}{xxii}
+\contentsline {section}{\numberline {14}references}{xxii}
